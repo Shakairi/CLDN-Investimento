@@ -31,7 +31,7 @@
                     android:textSize="20dp" />
 
                 <TextView
-                    android:id="@+id/resultado"
+                    android:id="@+id/valor_bruto"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="R$ 9,999.99"
@@ -55,7 +55,7 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/rendimento"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -83,7 +83,7 @@
                     android:paddingBottom="10dp">
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/textview"
                         android:layout_width="233dp"
                         android:layout_height="wrap_content"
                         android:paddingLeft="5dp"
@@ -93,9 +93,9 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/col"
+                        android:id="@+id/inicial"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_height="20dp"
                         android:layout_weight="1"
                         android:paddingRight="5dp"
                         android:text="R$ 999.99"
@@ -122,7 +122,7 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/valor_bruto"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -151,7 +151,7 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/rendimento"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -180,7 +180,7 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/ir"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -208,7 +208,7 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/valor_liquido"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -276,7 +276,7 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/dias_corridos"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -305,7 +305,7 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/rendimento_mensal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -334,7 +334,7 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/col"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -363,7 +363,7 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/rentabilidade_anual"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -391,7 +391,7 @@
                         android:textSize="15dp" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/rentabilidade_periodo"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
